@@ -2,11 +2,11 @@ TryHackMe Learning Portfolio
 
 Welcome to my TryHackMe learning portfolio.
 
-I have completed 59 rooms and continue developing my cybersecurity knowledge through hands-on labs and practical challenges.
+I have completed many rooms and continue developing my cybersecurity knowledge through hands-on labs and practical challenges.
 
 Learning Progress
 
-- Total completed rooms: 59
+- Total completed rooms: many
 - Pre Security: 43% progress
 - Cyber Security 101: 14% progress
 - Advent of Cyber: Participated in multiple events
