@@ -6,8 +6,8 @@ I'm an aspiring cybersecurity professional passionate about information security
 
 My Practical Experience
 
-- TryHackMe: 62 completed rooms
-- Hack The Box: Approximately 7–9 completed labs
+- TryHackMe: completed rooms
+- Hack The Box: completed labs
 
 Areas of Interest
 
