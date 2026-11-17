@@ -1,0 +1,18 @@
+# Linux Fundamentals Part 1
+
+**Platform:** TryHackMe
+
+**Status:** Completed
+
+**Room Link:** https://tryhackme.com/room/linuxfundamentalspart1
+
+## Achievement
+Successfully completed Linux Fundamentals Part 1.
+
+## Skills Practised
+- Linux command line
+- Linux filesystem
+- Basic Linux commands
+
+## Proof of Completion
+https://tryhackme.com/room/linuxfundamentalspt15vm?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&share_date=2026-11-17&sharerId=6963aa118bd971e1cf8bc30f
